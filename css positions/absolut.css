@@ -1,0 +1,40 @@
+html, body, h1{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 600px;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    box-shadow: 0 0 10px #666;
+    margin: 10px auto;
+    padding: 10px;
+}
+body{
+    background: rgb(172, 172, 167);
+    
+}
+#principal{
+    background-color: azure;
+    border: 1px solid black;
+    margin-top: 20px;
+    position: relative;
+}
+.janela1{
+    background-color: rgb(182, 247, 182);
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.janela2{
+    background-color: rgb(255, 144, 227);
+}
+.janela3{
+    background-color: rgb(44, 119, 124);}
+.cubo{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
